@@ -1,5 +1,46 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
+.wappaer_box {
+  margin: 0 auto;
+}
+table {
+  table-layout: fixed;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+table th {
+  font-size: 18px;
+  line-height: 26px;
+  border: solid 1px #dedede;
+  padding: 10px;
+  color: #fff;
+  background-color: #2244aa;
+}
+table td {
+  font-size: 16px;
+  line-height: 22px;
+  border: solid 1px #dedede;
+  padding: 10px;
+}
+tbody td:first-child {
+  font-size: 18px;
+  line-height: 26px;
+  color: #fff;
+  background-color: #2244aa;
+}
+tbody tr:nth-child(even) {
+  background-color: #ecf1f2;
+}
+tbody tr:last-child {
+  border-bottom: dashed #000 2px;
+}
+tfoot td:first-child {
+  font-size: 18px;
+  line-height: 26px;
+  color: #fff;
+  background-color: #2244aa;
+}
 
 /* 回答はここに書いてね */

@@ -1,5 +1,55 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
+.wapper_box {
+  padding: 20px 20px;
+  background-color: #ecf1f2;
+}
 
+.grid_box {
+  margin: 0 -10px;
+  font-size: 0;
+}
+
+.grid_item_box {
+  display: inline-block;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+
+.grid_box_12 {
+  width: 100%;
+}
+
+.grid_item {
+  height: 50px;
+  background-color: #fff;
+  font-size: 16px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.grid_box:not(:first-child) {
+  margin-top: 20px;
+}
+
+.grid_box_6 {
+  width: 50%;
+}
+
+.grid_box_4 {
+  width: 33.33%;
+}
+
+.grid_box_3 {
+  width: 25%;
+}
+
+.grid_box_24 {
+  width: 20%;
+}
+
+.grid_box_2 {
+  width: 16.66%;
+}
 /* 回答はここに書いてね */
