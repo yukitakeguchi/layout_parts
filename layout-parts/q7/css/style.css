@@ -14,7 +14,7 @@
 
 .text {
    padding: 5px;
-   border: 1px solid #00BCD4;
+   border: 1px solid #00bcd4;
    border-radius: 5px;
 }
 
@@ -29,13 +29,13 @@
 }
 
 .text_item:focus {
-   box-shadow: 0 0 7px #00BCD4;
+   box-shadow: 0 0 7px #00bcd4;
 }
 
 .text_item_textarea {
    height: 40px;
    padding: 5px;
-   border: 1px solid #00BCD4;
+   border: 1px solid #00bcd4;
    border-radius: 5px;
    resize: none;
    background: none;
@@ -78,7 +78,7 @@
   width: 8px;
   height: 8px;
   margin-top: -4px;
-  background-color: #00BCD4;
+  background-color: #00bcd4;
   border-radius: 50%;
   content: '';
 }
@@ -112,15 +112,15 @@
   left: 3px;
   width: 13px;
   height: 5px;
-  border-bottom: 2px solid #00BCD4;
-  border-left: 2px solid #00BCD4;
+  border-bottom: 2px solid #00bcd4;
+  border-left: 2px solid #00bcd4;
   -webkit-transform: rotate(-45deg);
   transform: rotate(-45deg);
 }
 
 .select_box {
   position: relative;
-  background-color: #FFF;
+  background-color: #fff;
 }
 
 .select_box:before {
@@ -152,15 +152,15 @@
 
 .button {
   padding: 5px 10px;
-  border: 1px solid #00BCD4;
+  border: 1px solid #00bcd4;
   border-radius: 5px;
   color: #00bcde;
   cursor: pointer;
 }
 
 .button:active {
-    background-color: #00BCD4;
-    color: #FFF;
+    background-color: #00bcd4;
+    color: #fff;
 }
 
 .text_item2 {

@@ -11,7 +11,7 @@
 
 .clearfix::bifore;
 .clearfix::after {
-  item_list: "";
+  content: "";
   display: block;
   clear: both;
 }
@@ -19,7 +19,7 @@
 .item_list {
   box-sizing: border-box;
 }
-.picture {
+.picture_left {
   float: left;
   margin-right: 20px;
   margin-bottom: 10px;
@@ -31,13 +31,7 @@
   word-break: break-all;  /*改行の仕方を指定*/
 }
 
-.clearfix::bifore;
-.clearfix::after {
-  item_list: "";
-  display: block;
-  clear: both;
-}
-.picture2 {
+.picture_right {
   float: right;
   margin-left: 20px;
   margin-bottom: 10px;

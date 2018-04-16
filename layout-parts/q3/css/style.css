@@ -16,7 +16,7 @@ table th {
   border: solid 1px #dedede;
   padding: 10px;
   color: #fff;
-  background-color: #2244aa;
+  background-color: #24a;
 }
 table td {
   font-size: 16px;
@@ -28,7 +28,7 @@ tbody td:first-child {
   font-size: 18px;
   line-height: 26px;
   color: #fff;
-  background-color: #2244aa;
+  background-color: #24a;
 }
 tbody tr:nth-child(even) {
   background-color: #ecf1f2;
@@ -40,7 +40,7 @@ tfoot td:first-child {
   font-size: 18px;
   line-height: 26px;
   color: #fff;
-  background-color: #2244aa;
+  background-color: #24a;
 }
 
 /* 回答はここに書いてね */

@@ -2,22 +2,22 @@
 
 /* 回答はここに書いてね */
 
-.button1 {
+.common {
   background-color: #00bcd4;
   color: #fff;
 }
 
-.button2 {
+.error {
   background-color: #ff4081;
   color: #fff;
 }
 
-.button3 {
+.disabled {
   background-color: #e5e5e5;
   color: #fff;
 }
 
-.button4 {
+.shadow {
   color: #222;
   box-shadow: 0 1px 6px rgba(0, 0, 0, .12), 0 1px 4px rgba(0, 0, 0, .12);
 }
